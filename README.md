@@ -1,5 +1,5 @@
 
-> Open this page at [https://kateiren.github.io/ringbit-car-controller/](https://kateiren.github.io/ringbit-car-controller/)
+> Open this page at [https://kateiren.github.io/ringbit-car-controller/](https://kateiren.github.io/ringbit-car-remote-controlled/)
 
 ## Use as Extension
 
