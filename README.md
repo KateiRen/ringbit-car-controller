@@ -1,6 +1,12 @@
 
 > Open this page at [https://kateiren.github.io/ringbit-car-controller/](https://kateiren.github.io/ringbit-car-remote-controlled/)
 
+## About this project ##
+
+This project tests/demonstrates the capabilities of [ELECFREAKS micro:bit Ring:bit V2 Kit Micro Car](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board?_pos=2&_psq=car&_ss=e&_v=1.0&variant=40604209217615) together with another [BBC micro:bit}(https://shop.elecfreaks.com/products/elecfreaks-bbc-micro-bit-v2-2) unit as the remote control.
+
+There are multiple programs (modes) where the car performs a predefined way of travelling, while one mode uses the accelerometer of the remote control unit to define the moving pattern.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
