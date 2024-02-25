@@ -1,5 +1,5 @@
 {
-    "name": "ringbit Car controller",
+    "name": "ringbit Car remote controlled",
     "description": "",
     "dependencies": {
         "core": "*",
